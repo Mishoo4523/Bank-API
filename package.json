@@ -1,0 +1,24 @@
+{
+  "name": "Bank-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mishoo4523/Bank-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mishoo4523/Bank-API/issues"
+  },
+  "homepage": "https://github.com/Mishoo4523/Bank-API#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
